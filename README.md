@@ -1,4 +1,4 @@
-<a href="Naive_Bayes.html">Naive Bayes</a>
+<a href="https://raw.githubusercontent.com/LouisJEANPIERRE/site/master/Naive_Bayes.html">Naive Bayes</a>
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/LouisJEANPIERRE/site/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
