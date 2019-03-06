@@ -1,5 +1,5 @@
 <a href="https://raw.githubusercontent.com/LouisJEANPIERRE/site/master/Naive_Bayes.html">Naive Bayes</a>
-
+<a href="https://raw.githubusercontent.com/LouisJEANPIERRE/site/master/NaiveBayes.md/Naive_Bayes.html">Naive Bayes</a>
 
 <p><img src="NB4.PNG" alt="title"></p>
 
