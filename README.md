@@ -1,3 +1,4 @@
+<a href="Naive_Bayes.html">Naive Bayes</a>
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/LouisJEANPIERRE/site/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
@@ -23,8 +24,8 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-
+```
 
 [Naive Bayes](https://raw.githubusercontent.com/LouisJEANPIERRE/site/master/Naive%20Bayes)
 
-<a href="Naive_Bayes.html">Naive Bayes</a>
+
