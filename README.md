@@ -1,17 +1,9 @@
 ## Machine Learning 
 
-<a href="https://raw.githubusercontent.com/LouisJEANPIERRE/site/master/Naive_Bayes.html">Naive Bayes</a>
-
-
 <a href="https://raw.githubusercontent.com/LouisJEANPIERRE/site/master/NaiveBayes.md/Naive_Bayes.html">Naive Bayes</a>
 
-<p><img src="NB4.PNG" alt="title"></p>
 
-## Machine Learning 
 
-You can use the [editor on GitHub](https://github.com/LouisJEANPIERRE/site/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
@@ -33,7 +25,5 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 ```
-
-[Naive Bayes](https://raw.githubusercontent.com/LouisJEANPIERRE/site/master/Naive%20Bayes)
 
 
