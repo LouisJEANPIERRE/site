@@ -1,9 +1,13 @@
+## Machine Learning 
+
 <a href="https://raw.githubusercontent.com/LouisJEANPIERRE/site/master/Naive_Bayes.html">Naive Bayes</a>
+
+
 <a href="https://raw.githubusercontent.com/LouisJEANPIERRE/site/master/NaiveBayes.md/Naive_Bayes.html">Naive Bayes</a>
 
 <p><img src="NB4.PNG" alt="title"></p>
 
-## Welcome to GitHub Pages
+## Machine Learning 
 
 You can use the [editor on GitHub](https://github.com/LouisJEANPIERRE/site/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
