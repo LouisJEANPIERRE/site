@@ -1,4 +1,4 @@
-## Pré-traitement et analyse des données
+### Pré-traitement et analyse des données
 
 <a href=""> Analyse et visualisation de données </a>
 
@@ -6,7 +6,7 @@
 
 <a href=""> Analyse en composantes principales </a>
 
-## Algorithmes Machine Learning 
+### Algorithmes Machine Learning 
 
 <a href="https://louisjeanpierre.github.io/site/NaiveBayes.md/Naive_Bayes.html">Naive Bayes</a>
 
