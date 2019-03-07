@@ -10,6 +10,8 @@
 
 <a href="">Support Vector Machine</a>
 
+<a href=""> XGBoost </a>
+
 
 
 
