@@ -10,7 +10,7 @@
 
 <a href="https://louisjeanpierre.github.io/site/NaiveBayes.md/Naive_Bayes.html">Naive Bayes</a>
 
-<a href="">Support Vector Machine</a>
+<a href=""https://louisjeanpierre.github.io/site/SVM.md/SVM.html"">Support Vector Machine</a>
 
 <a href=""> XGBoost </a>
 
